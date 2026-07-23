@@ -20,7 +20,3 @@ This is a responsive multi-page coffee shop website I built with HTML and CSS as
 - Required form validation
 - Audio elements
 - Mobile and desktop navigation behavior
-
-## Note about assets
-
-The original coursework referenced image and audio files that are not included in this repository. The HTML and CSS source is preserved, but some background images, performer images, and audio clips will not display until those assets are added.
