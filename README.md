@@ -9,6 +9,7 @@ This is a responsive multi-page coffee shop website I built with HTML and CSS as
 - `music.html` - monthly music events with audio elements
 - `jobs.html` - job application form with required fields
 - `javajam.css` - shared responsive styling
+- `javajam` - images and audios
 
 ## What I practiced
 
